@@ -13,3 +13,6 @@ dist-ssr
 .vscode/*
 !.vscode/extensions.json
 *.log
+
+.vercel
+.env*
